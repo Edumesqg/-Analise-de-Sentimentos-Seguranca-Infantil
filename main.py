@@ -8,7 +8,7 @@ from random import randint
 import pandas as pd
 
 MINIMUM_TWEETS = 10
-QUERY = 'chat.gpt lang:pt'  # Adiciona o filtro de idioma na consulta
+QUERY = ' # Adiciona o filtro de idioma na consulta
 MAX_TWEETS = 50  # Define o número máximo de tweets a serem buscados
 
 # Login credentials
