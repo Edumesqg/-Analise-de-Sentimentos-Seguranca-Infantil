@@ -1,4 +1,4 @@
-# Piloto - O Poder da Inteligência Artificial e Machine Learning na Análise de Sentimentos Sobre a Segurança Infantil na Internet**
+# Piloto - O Poder da Inteligência Artificial e Machine Learning na Análise de Sentimentos Sobre a Segurança Infantil na Internet
 
 ### Introdução
 
